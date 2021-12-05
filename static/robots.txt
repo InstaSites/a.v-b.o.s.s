@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://V1eos.photos/sitemap.xml
